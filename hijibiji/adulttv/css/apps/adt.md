@@ -11,11 +11,10 @@ Non of the streams/videos are hosted on this website. All content is copyright o
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Live 24/7</td><td align="right">1</td><td align="left"><code>https://rawsolutionbd.github.io/hellox/css/apps/adt.m3u</code></td></tr>
-		<tr><td align="left">Live 24/7</td><td align="right">1</td><td align="left"><code>https://rawsolutionbd.github.io/hellox/css/apps/adt2.m3u</code></td></tr>
-		<tr><td align="left">Live 24/7 3</td><td align="right">1</td><td align="left"><code>https://rawsolutionbd.github.io/hellox/css/apps/channels/tests.m3u</code></td></tr>
-		<tr><td align="left">VOD 01</td><td align="right">1</td><td align="left"><code>https://rawsolutionbd.github.io/hellox/css/apps/adtvod2.m3u</code></td></tr>
-<tr><td align="left">VOD</td><td align="right">1</td><td align="left"><code>https://rawsolutionbd.github.io/hellox/css/apps/adtvod.m3u</code></td></tr>
+		<tr><td align="left">Live 24/7 01</td><td align="right">1</td><td align="left"><code>https://haqueappsstore.github.io/hijibiji/adulttv/css/apps/adt.m3u</code></td></tr>
+		<tr><td align="left">Live 24/7 02</td><td align="right">1</td><td align="left"><code>https://haqueappsstore.github.io/hijibiji/adulttv/css/apps/adt2.m3u</code></td></tr>
+		<tr><td align="left">VOD 01</td><td align="right">1</td><td align="left"><code>https://haqueappsstore.github.io/hijibiji/adulttv/css/apps/adtvod.m3u</code></td></tr>
+<tr><td align="left">VOD 01</td><td align="right">1</td><td align="left"><code>https://haqueappsstore.github.io/hijibiji/adulttv/css/apps/adtvod2.m3u</code></td></tr>
 		
 	</tbody>
 </table>
